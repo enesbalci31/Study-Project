@@ -1,0 +1,10 @@
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\bin\Debug\Etüt_Projesi.exe.config
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\bin\Debug\Etüt_Projesi.exe
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\bin\Debug\Etüt_Projesi.pdb
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.csproj.AssemblyReference.cache
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.Form1.resources
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.Properties.Resources.resources
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.csproj.GenerateResource.cache
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.exe
+C:\Users\enesb\source\repos\Etüt_Projesi\Etüt_Projesi\obj\Debug\Etüt_Projesi.pdb
